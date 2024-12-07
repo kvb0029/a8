@@ -1,6 +1,7 @@
 import unittest
 from unittest.mock import patch
 from io import StringIO
+from EMs import *
 
 # Mocked data for testing
 users = {"admin": "admin123"}
